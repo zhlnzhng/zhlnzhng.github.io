@@ -7,7 +7,7 @@ title: Useful Wallpapers
 
 ### 简介
 
-[Useful Wallpapers](https://tufucheung.gumroad.com/l/outlive) 将壁纸作为备忘录的载体，利用系统随机自动更换壁纸的功能，帮助你在潜移默化中记忆一系列内容。
+[Useful Wallpapers](https://zhlnzhng.gumroad.com/l/outlive) 将壁纸作为备忘录的载体，利用系统随机自动更换壁纸的功能，帮助你在潜移默化中记忆一系列内容。
 
 Quotes of Outlive 系列是 Useful Wallpapers 项目的第一次尝试。本系列一共有 32 张壁纸，每张壁纸上都有一句摘录自《超越百岁》的健康建议。
 
@@ -55,7 +55,7 @@ Quotes of Outlive 系列包含 32 条健康建议，我的内容策略是：
 
 ### 如何使用
 
-前往[下载页面](https://tufucheung.gumroad.com/l/outlive)（由 Gumroad 支持），你可以免费获取。
+前往[下载页面](https://zhlnzhng.gumroad.com/l/outlive)（由 Gumroad 支持），你可以免费获取。
 
 1. 下载 ZIP 文件
 2. 解压，并得到 32 张 PNG 格式的壁纸图片
